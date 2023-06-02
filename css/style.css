@@ -1,5 +1,6 @@
 .header{
     text-decoration: underline;
+    font-family: monospace;
 
 }
 .container{
@@ -14,4 +15,12 @@
     justify-content: center;
     background-color: rgba(0, 0, 0, 0.812);
 
+}
+.box{
+    outline: solid rgb(9, 237, 9);
+}
+button{
+    border-radius: 2rem;
+    background-color: rgba(238, 9, 9, 0.812);
+    font-family: cursive;
 }
